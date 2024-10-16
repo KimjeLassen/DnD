@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Font"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "accentColor": ""
+}

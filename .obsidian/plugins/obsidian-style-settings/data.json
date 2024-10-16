@@ -1,0 +1,12 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@default-font": "'IM Fell English'",
+  "ITS@@font-monospace": "'IM Fell English'",
+  "ITS@@comment-font": "'IM Fell English'",
+  "ITS@@writing-document": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@notion": false
+}
